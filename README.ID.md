@@ -71,19 +71,6 @@ Sistem Informasi Manajemen Keuangan Pribadi berbasis web yang dikembangkan mengg
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ogikkoding&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikkoding&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Aktivitas GitHub
 
 <p align="center">
