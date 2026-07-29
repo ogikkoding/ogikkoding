@@ -1,55 +1,47 @@
-<h1 align="center">Hi there 👋, I'm Yogi Irawan</h1>
+<h1 align="center">Yogi Irawan</h1>
 
 <h3 align="center">
-• Web Developer AI Enthusiast • Data Science • Computer Vision • NLP • LLM
+Software Engineering • Web Development • Artificial Intelligence • Data Science • Computer Vision
 </h3>
 
 <p align="center">
-I am an Informatics undergraduate passionate about Artificial Intelligence and Software Development. I enjoy building intelligent systems that combine Machine Learning, Deep Learning, and Large Language Models to solve real-world problems.
+I focus on Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision. I enjoy designing and developing modern software and applications that are efficient, scalable, and capable of solving real-world problems. I continuously expand my knowledge and strengthen my skills through technology exploration, hands-on projects, and the adoption of software engineering best practices.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate Student in Informatics
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 👁️ Exploring Computer Vision, NLP, and Large Language Models
-- 🌱 Currently learning MLOps, RAG Systems, and AI Deployment
-- 💡 Passionate about transforming ideas into intelligent applications
+- 💻 Passionate about Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision
+- ⚙️ Building modern applications, intelligent systems, and technology-driven digital solutions
+- 📖 Continuously learning new technologies, frameworks, and tools to improve software development practices
+- 🌱 Growing through real-world projects, technology exploration, and lifelong learning
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Areas of Interest
 
-**Data Science • Computer Vision • Text Mining • Large Language Models (LLMs)**
+**Software Engineering • Web Development • Artificial Intelligence • Data Science • Computer Vision**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,cpp,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,js,html,css" />
 </p>
 
-### AI & Machine Learning
-
+### 🚀 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-**Also Working With**
-
-- EfficientNetV2
-- ResNet50
-- XGBoost
-- FAISS
-- Streamlit
-- Google Gemini API
-- Hugging Face Transformers
-- IndoBERT
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
+</p>
 
 ---
 
@@ -57,65 +49,53 @@ I am an Informatics undergraduate passionate about Artificial Intelligence and S
 
 ### 🍽️ Indonesian Food Classification
 
-Hybrid Computer Vision system using **ResNet50 + SVM** for Indonesian food image classification.
+An image classification system for Indonesian cuisine using a hybrid approach with **ResNet50** as the feature extractor and **Support Vector Machine (SVM)** as the classifier.
 
 ---
 
-### 💰 Smart Financial Transaction Analysis
+### 💰 Intelligent Financial Transaction Analysis
 
-AI-powered financial transaction classification using **IndoBERT + XGBoost**, integrated with **FAISS**, **Google Gemini**, and **RAG**.
+An AI-powered financial transaction analysis system utilizing **IndoBERT**, **XGBoost**, **FAISS**, **Google Gemini**, and **Retrieval-Augmented Generation (RAG)**.
 
 ---
 
-### 🦗 Cricket Growth Stage Classification
+### 🦗 Cricket Species and Growth Stage Classification
 
-Research project utilizing **EfficientNetV2 + XGBoost** for classifying cricket species and growth stages from digital images.
+A research project leveraging **EfficientNetV2** and **XGBoost** to classify cricket species and growth stages based on digital images.
 
 ---
 
 ### 💻 OGIKFINANC
 
-A web-based personal finance management system developed using **PHP Native**, **Bootstrap 5**, and **MySQL**.
+A web-based personal finance management system developed using **Native PHP**, **Bootstrap 5**, and **MySQL**.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ogikkoding&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikkoding&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ogikkoding&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikkoding&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true"/>
-
+  <img width="98%" src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
+I am always open to discussions, knowledge sharing, and collaboration in Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision.
+
 <p align="left">
-<a href="https://github.com/ogikkoding" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<a href="https://github.com/ogikkoding">
+<img src="https://img.shields.io/badge/GitHub-ogikkoding-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="ogikkoding@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ogikkoding@gmail.com">
+<img src="https://img.shields.io/badge/Email-ogikkoding%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
----
-
-<p align="center">
-
-<i>"Turning ideas into intelligent solutions through Artificial Intelligence and Software Engineering."</i>
 </p>
