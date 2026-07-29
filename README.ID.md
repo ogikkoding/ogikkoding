@@ -1,57 +1,49 @@
-<h1 align="center">Halo 👋, Saya Yogi Irawan</h1>
+<h1 align="center">Yogi Irawan</h1>
 
 <h3 align="center">
-Penggiat Artificial Intelligence • Data Science • Computer Vision • NLP • LLM
+Software Engineering • Web Development • Artificial Intelligence • Data Science • Computer Vision
 </h3>
 
 <p align="center">
-Mahasiswa Informatika yang memiliki ketertarikan dalam pengembangan Artificial Intelligence dan Software Development. Saya senang membangun sistem cerdas berbasis Machine Learning, Deep Learning, serta Large Language Models untuk menyelesaikan berbagai permasalahan nyata.
+Saya berfokus pada Software Engineering, Web Development, Artificial Intelligence, Data Science, dan Computer Vision. Saya senang merancang dan mengembangkan perangkat lunak serta aplikasi modern yang efisien, skalabel, dan memberikan solusi terhadap berbagai permasalahan nyata. Saya juga terus memperluas wawasan dan mengasah kemampuan melalui eksplorasi teknologi, pembangunan proyek, serta penerapan praktik terbaik dalam pengembangan perangkat lunak.
 </p>
 
 ---
 
 ## 🚀 Tentang Saya
 
-- 🎓 Mahasiswa S1 Informatika
-- 🤖 Memiliki minat pada Artificial Intelligence dan Machine Learning
-- 👁️ Mendalami Computer Vision, Natural Language Processing (NLP), dan Large Language Models (LLMs)
-- 🌱 Sedang mempelajari MLOps, Retrieval-Augmented Generation (RAG), dan Deployment Model AI
-- 💡 Bersemangat mengembangkan solusi berbasis teknologi yang bermanfaat bagi masyarakat
+- 💻 Menekuni Software Engineering, Web Development, Artificial Intelligence, Data Science, dan Computer Vision
+- ⚙️ Membangun aplikasi modern, sistem cerdas, dan solusi digital berbasis teknologi
+- 📖 Aktif mempelajari teknologi, framework, dan tools terbaru untuk meningkatkan kualitas pengembangan perangkat lunak
+- 🌱 Terus berkembang melalui proyek nyata, eksplorasi teknologi, dan pembelajaran berkelanjutan
 
 ---
 
 ## 🔬 Bidang Minat
 
-**Data Science • Computer Vision • Text Mining • Large Language Models (LLMs)**
+**Software Engineering • Web Development • Artificial Intelligence • Data Science • Computer Vision**
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
-### Bahasa Pemrograman
+## 🛠️ Tech Stack
 
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,cpp,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,js,html,css" />
 </p>
 
-### Artificial Intelligence & Machine Learning
-
+### 🚀 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-**Teknologi Lain yang Sering Digunakan**
-
-- EfficientNetV2
-- ResNet50
-- XGBoost
-- FAISS
-- Streamlit
-- Google Gemini API
-- Hugging Face Transformers
-- IndoBERT
-
----
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
+</p>
 
 ## 🌟 Proyek Unggulan
 
@@ -79,14 +71,15 @@ Sistem Informasi Manajemen Keuangan Pribadi berbasis web yang dikembangkan mengg
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ogikkoding&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikkoding&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ogikkoding&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikkoding&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -103,25 +96,18 @@ Sistem Informasi Manajemen Keuangan Pribadi berbasis web yang dikembangkan mengg
 
 ## 📫 Hubungi Saya
 
-Saya terbuka untuk berdiskusi mengenai Artificial Intelligence, Machine Learning, penelitian, pengembangan perangkat lunak, maupun peluang kolaborasi. Jangan ragu untuk menghubungi saya melalui platform berikut.
+Saya terbuka untuk berdiskusi, berbagi pengetahuan, maupun berkolaborasi dalam bidang Software Engineering, Web Development, Artificial Intelligence, Data Science, dan Computer Vision.
 
 <p align="left">
 
-<a href="https://github.com/ogikkoding">
+<a href="https://github.com/ogikkoding" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-ogikkoding-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="ogikkoding@gmail.com">
-<img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:ogikkoding@gmail.com">
+<img src="https://img.shields.io/badge/Email-ogikkoding%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 </p>
 
 ---
-
-<p align="center">
-
-<i>"Terus belajar, terus berkembang, dan membangun solusi cerdas yang memberikan manfaat nyata."</i>
-
-</p>
