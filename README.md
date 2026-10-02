@@ -5,42 +5,41 @@ Software Engineering • Web Development • Artificial Intelligence • Data Sc
 </h3>
 
 <p align="center">
-I focus on Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision. I enjoy designing and developing modern software and applications that are efficient, scalable, and capable of solving real-world problems. I continuously expand my knowledge and strengthen my skills through technology exploration, hands-on projects, and the adoption of software engineering best practices.
+I focus on Software Engineering, Web Development, Data Science, and AI & AI Engineering. Driven by a strong passion for problem-solving, I enjoy building modern, efficient, scalable, and solution-oriented software to address real-world challenges. I am committed to continuous growth through exploring cutting-edge technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision
+- 💻 Pursuing Software Engineering, Web Development, Artificial Intelligence, and Data Science
 - ⚙️ Building modern applications, intelligent systems, and technology-driven digital solutions
-- 📖 Continuously learning new technologies, frameworks, and tools to improve software development practices
-- 🌱 Growing through real-world projects, technology exploration, and lifelong learning
+- 📖 Actively learning the latest technologies, frameworks, and tools to elevate software development quality
+- 🌱 Continuously growing through real-world projects, tech exploration, and lifelong learning
 
 ---
 
 ## 🔬 Areas of Interest
 
-**Software Engineering • Web Development • Artificial Intelligence • Data Science • Computer Vision**
+**Software Engineering • Web Development • AI & AI Engineering • Data Science • Problem Solving**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Runtime
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tensorflow,pytorch,opencv,sklearn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tensorflow,pytorch,opencv,sklearn,streamlit" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,docker" />
 </p>
 
 ---
@@ -49,48 +48,39 @@ I focus on Software Engineering, Web Development, Artificial Intelligence, Data 
 
 ### 🍽️ Indonesian Food Classification
 
-An image classification system for Indonesian cuisine using a hybrid approach with **ResNet50** as the feature extractor and **Support Vector Machine (SVM)** as the classifier.
+An Indonesian food image classification system built using a hybrid approach featuring **ResNet50 as a Feature Extractor** and **Support Vector Machine (SVM)** as the classifier.
 
 ---
 
-### 💰 Intelligent Financial Transaction Analysis
+### 💰 Smart Financial Transaction Analysis
 
 An AI-powered financial transaction analysis system utilizing **IndoBERT**, **XGBoost**, **FAISS**, **Google Gemini**, and **Retrieval-Augmented Generation (RAG)**.
 
 ---
 
-### 🦗 Cricket Species and Growth Stage Classification
-
-A research project leveraging **EfficientNetV2** and **XGBoost** to classify cricket species and growth stages based on digital images.
-
----
-
 ### 💻 OGIKFINANC
 
-A web-based personal finance management system developed using **Native PHP**, **Bootstrap 5**, and **MySQL**.
+A web-based Personal Financial Management Information System developed using **Native PHP**, **Bootstrap 5**, and **MySQL**.
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ogikkoding&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogikkoding&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-I am always open to discussions, knowledge sharing, and collaboration in Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision.
+I am always open to discussions, knowledge sharing, and collaborations in Software Engineering, Web Development, Artificial Intelligence, Data Science, and Computer Vision.
 
 <p align="left">
 
-<a href="https://github.com/ogikkoding">
+<a href="https://github.com/ogikkoding" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-ogikkoding-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
