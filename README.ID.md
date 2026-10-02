@@ -56,12 +56,6 @@ Sistem analisis transaksi keuangan berbasis Artificial Intelligence menggunakan 
 
 ---
 
-### 🦗 Klasifikasi Jenis dan Stadia Pertumbuhan Jangkrik
-
-Proyek penelitian yang memanfaatkan **EfficientNetV2** dan **XGBoost** untuk mengklasifikasikan jenis serta stadia pertumbuhan jangkrik berdasarkan citra digital.
-
----
-
 ### 💻 OGIKFINANC
 
 Sistem Informasi Manajemen Keuangan Pribadi berbasis web yang dikembangkan menggunakan **PHP Native**, **Bootstrap 5**, dan **MySQL**.
