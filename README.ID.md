@@ -1,7 +1,7 @@
-<h1 align="center">Yogi Irawan</h1>
+<h1 align="center">YOGI IRAWAN</h1>
 
 <h3 align="center">
-Software Engineering • Web Development • Artificial Intelligence • Data Science • Computer Vision
+Software Engineering • Web Development • Artificial Intelligence • Data Science
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Saya berfokus pada Software Engineering, Web Development, Data Science, serta AI
 
 ## 🔬 Bidang Minat
 
-**Software Engineering • Web Development • AI & AI Engineering • Data Science • Problem Solving**
+**Software Engineering • Web Development • AI Engineering • Data Science •**
 
 ---
 
@@ -42,32 +42,12 @@ Saya berfokus pada Software Engineering, Web Development, Data Science, serta AI
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,docker" />
 </p>
 
-## 🌟 Proyek Unggulan
-
-### 🍽️ Klasifikasi Makanan Indonesia
-
-Sistem klasifikasi citra makanan Indonesia menggunakan pendekatan hybrid **ResNet50 sebagai Feature Extractor** dan **Support Vector Machine (SVM)** sebagai classifier.
-
----
-
-### 💰 Analisis Cerdas Transaksi Keuangan
-
-Sistem analisis transaksi keuangan berbasis Artificial Intelligence menggunakan **IndoBERT**, **XGBoost**, **FAISS**, **Google Gemini**, dan **Retrieval-Augmented Generation (RAG)**.
-
----
-
-### 💻 OGIKFINANC
-
-Sistem Informasi Manajemen Keuangan Pribadi berbasis web yang dikembangkan menggunakan **PHP Native**, **Bootstrap 5**, dan **MySQL**.
-
----
-
 ## 🔥 Aktivitas GitHub
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/ogikkoding?tab=repositories">
+    <img src="https://streak-stats.demolab.com?user=ogikkoding&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -80,6 +60,10 @@ Saya terbuka untuk berdiskusi, berbagi pengetahuan, maupun berkolaborasi dalam b
 
 <a href="https://github.com/ogikkoding" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-ogikkoding-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yogiirawan490@gmail.com">
+<img src="https://img.shields.io/badge/Email-ogikkoding%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:ogikkoding@gmail.com">
