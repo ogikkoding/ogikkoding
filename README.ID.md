@@ -62,13 +62,9 @@ Saya terbuka untuk berdiskusi, berbagi pengetahuan, maupun berkolaborasi dalam b
 <img src="https://img.shields.io/badge/GitHub-ogikkoding-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:yogiirawan490@gmail.com">
-<img src="https://img.shields.io/badge/Email-ogikkoding%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Email-yogiirawan490%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<a href="mailto:ogikkoding@gmail.com">
 <img src="https://img.shields.io/badge/Email-ogikkoding%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
